@@ -1,8 +1,8 @@
 {
 	"info": {
-		"version": 1,
-		"version_code": 1237,
-		"version_name": "5.0.1"
+		"version": 2,
+		"version_code": 1252,
+		"version_name": "5.0.2"
 	},
 	"classes": {
 		"LinkRedir": "com.vk.common.links.b",
@@ -11,6 +11,7 @@
 		"StickersDictionaryItem": "com.vkontakte.android.data.orm.b",
 		"NewsEntry": "com.vkontakte.android.NewsEntry",
 		"Posts": "com.vkontakte.android.data.h",
+		"Posts_Interface": "com.vkontakte.android.d.i",
 		"NewsFragment": "com.vkontakte.android.fragments.NewsFragment",
 		"MessageListItem": "com.vkontakte.android.ui.holder.messages.f",
 		"Message": "com.vkontakte.android.Message",
@@ -53,7 +54,7 @@
 		"NewsEntry_parseAd": "a",
 		"Posts_buildItems": "a",
 		"ChatFragment_restoreDraft": "u",
-		"ChatFragment_saveDraft": "t",
+		"ChatFragment_saveDraft": "s",
 		"ChatFragment_sendMessage": "K",
 		"WriteBar_getText": "getText",
 		"WriteBar_setText": "setText",
@@ -62,14 +63,14 @@
 		"ChatFragment_rebuildItems": "F",
 		"VKAccountManager_getCurrent": "a",
 		"VKAccount_getUid": "a",
-		"AppKitFragment_invalidateOptionsMenu": "C",
+		"AppKitFragment_invalidateOptionsMenu": "D",
 		"AudioPlayerFragment_displayInfo": "a",
 		"AudioFacade_getCurrentTrack": "e",
 		"NewsfeedCache_getFirstShowedIndex": "c",
 		"NewsfeedCache_getFirstShowedOffset": "d",
 		"NewsfeedCache_saveFirstShowedIndex": "a",
 		"NewsfeedCache_saveFirstShowedOffset": "b",
-		"NewsFragment_preloadNew": "L_",
+		"NewsFragment_preloadNew": "N_",
 		"NewsFragment_doLoadData": "a"
 	},
 	"fields": {
@@ -83,16 +84,16 @@
 		"ChatFragment_Messages": "y",
 		"AudioPlayerFragment_ViewPager": "i",
 		"AudioPlayerFragment_Duration": "c",
+		"AudioPlayerFragment_Controls_Download": "m",
 		"MusicTrack_Url": "f",
 		"MusicTrack_Artist": "b",
 		"MusicTrack_Title": "c",
 		"MusicTrack_Duration": "d",
-		"AudioPlayerFragment_Controls_Download": "m",
-		"NewsFragment_needSetSelection": "X",
 		"Posts_feedItem": "d",
 		"Posts_feedItemOffset": "e",
-		"NewsFragment_reloadByTime": "ap",
-		"NewsFragment_forceNewData": "ah",
-		"NewsFragment_Refreshing": "K"
+		"NewsFragment_needSetSelection": "Y",
+		"NewsFragment_reloadByTime": "at",
+		"NewsFragment_forceNewData": "ai",
+		"NewsFragment_Refreshing": "G"
 	}
 }
