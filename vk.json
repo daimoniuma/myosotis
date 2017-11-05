@@ -1,6 +1,6 @@
 {
 	"info": {
-		"version": 2,
+		"version": 3,
 		"version_code": 1252,
 		"version_name": "5.0.2"
 	},
@@ -74,7 +74,7 @@
 		"NewsFragment_doLoadData": "a"
 	},
 	"fields": {
-		"NewsEntry_Extra": "F",
+		"NewsEntry_Extra": "G",
 		"Message_Peer": "b",
 		"Message_Sender": "l",
 		"Message_Text": "m",
