@@ -1,6 +1,6 @@
 {
 	"info": {
-		"version": 3,
+		"version": 4,
 		"version_code": 1252,
 		"version_name": "5.0.2"
 	},
@@ -41,7 +41,8 @@
 		"NewsfeedCache": "com.vkontakte.android.cache.k",
 		"BaseRecyclerFragment": "me.grishka.appkit.fragments.BaseRecyclerFragment",
 		"DiscoverFragment": "com.vk.discover.DiscoverFragment",
-		"MenuFragment": "com.vk.menu.MenuFragment"
+		"MenuFragment": "com.vk.menu.MenuFragment",
+		"PlayerService": "com.vkontakte.android.audio.player.PlayerService"
 	},
 	"methods": {
 		"LinkRedir_makeAwayUri": "b",
@@ -71,7 +72,8 @@
 		"NewsfeedCache_saveFirstShowedIndex": "a",
 		"NewsfeedCache_saveFirstShowedOffset": "b",
 		"NewsFragment_preloadNew": "N_",
-		"NewsFragment_doLoadData": "a"
+		"NewsFragment_doLoadData": "a",
+		"PlayerService_stopPlayingIfNotSubscribed": "j"
 	},
 	"fields": {
 		"NewsEntry_Extra": "G",
