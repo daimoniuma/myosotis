@@ -1,6 +1,6 @@
 {
 	"info": {
-		"version": 5,
+		"version": 6,
 		"version_code": 1252,
 		"version_name": "5.0.2"
 	},
@@ -78,6 +78,7 @@
 	},
 	"fields": {
 		"NewsEntry_Extra": "G",
+		"NewsEntry_LatestNewsEntry_List": "Q",
 		"Message_Peer": "b",
 		"Message_Sender": "l",
 		"Message_Text": "m",
