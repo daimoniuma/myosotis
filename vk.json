@@ -1,6 +1,6 @@
 {
 	"info": {
-		"version": 6,
+		"version": 7,
 		"version_code": 1252,
 		"version_name": "5.0.2"
 	},
@@ -38,11 +38,11 @@
 		"TrackInfo": "com.vkontakte.android.audio.player.p",
 		"AudioFacade": "com.vkontakte.android.audio.AudioFacade",
 		"MusicTrack": "com.vkontakte.android.audio.MusicTrack",
-		"NewsfeedCache": "com.vkontakte.android.cache.k",
-		"BaseRecyclerFragment": "me.grishka.appkit.fragments.BaseRecyclerFragment",
 		"DiscoverFragment": "com.vk.discover.DiscoverFragment",
 		"MenuFragment": "com.vk.menu.MenuFragment",
-		"VKAccount": "com.vkontakte.android.auth.a"
+		"VKAccount": "com.vkontakte.android.auth.a",
+		"Preloader": "me.grishka.appkit.b.c",
+		"Preloader_Callback": "me.grishka.appkit.b.c$a"
 	},
 	"methods": {
 		"LinkRedir_makeAwayUri": "b",
@@ -67,14 +67,12 @@
 		"AppKitFragment_invalidateOptionsMenu": "D",
 		"AudioPlayerFragment_displayInfo": "a",
 		"AudioFacade_getCurrentTrack": "e",
-		"NewsfeedCache_getFirstShowedIndex": "c",
-		"NewsfeedCache_getFirstShowedOffset": "d",
-		"NewsfeedCache_saveFirstShowedIndex": "a",
-		"NewsfeedCache_saveFirstShowedOffset": "b",
+		"VKAccount_isMusicRestricted": "A",
+		"VKAccount_hasMusicSubscription": "z",
 		"NewsFragment_preloadNew": "N_",
 		"NewsFragment_doLoadData": "a",
-		"VKAccount_isMusicRestricted": "A",
-		"VKAccount_hasMusicSubscription": "z"
+		"NewsFragment_getPostsOffset": "m",
+		"NewsFragment_getAdapter": "m_"
 	},
 	"fields": {
 		"NewsEntry_Extra": "G",
@@ -93,11 +91,9 @@
 		"MusicTrack_Artist": "b",
 		"MusicTrack_Title": "c",
 		"MusicTrack_Duration": "d",
-		"Posts_feedItem": "d",
-		"Posts_feedItemOffset": "e",
-		"NewsFragment_needSetSelection": "Y",
 		"NewsFragment_reloadByTime": "at",
 		"NewsFragment_forceNewData": "ai",
-		"NewsFragment_Refreshing": "G"
+		"NewsFragment_refreshing": "G",
+		"BaseRecyclerFragment_UsableRecyclerView": "s"
 	}
 }
