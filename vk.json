@@ -1,6 +1,6 @@
 {
 	"info": {
-		"version": 7,
+		"version": 8,
 		"version_code": 1252,
 		"version_name": "5.0.2"
 	},
@@ -41,8 +41,7 @@
 		"DiscoverFragment": "com.vk.discover.DiscoverFragment",
 		"MenuFragment": "com.vk.menu.MenuFragment",
 		"VKAccount": "com.vkontakte.android.auth.a",
-		"Preloader": "me.grishka.appkit.b.c",
-		"Preloader_Callback": "me.grishka.appkit.b.c$a"
+		"BaseRecyclerFragment": "me.grishka.appkit.fragments.BaseRecyclerFragment"
 	},
 	"methods": {
 		"LinkRedir_makeAwayUri": "b",
