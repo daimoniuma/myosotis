@@ -1,0 +1,44 @@
+{
+	"info": {
+		"version": 1,
+		"version_code": 942,
+		"version_name": "2018.02.26"
+	},
+	"classes": {
+		"StreamRefreshController": "guu",
+		"TimelinePresenter": "com.soundcloud.android.sync.timeline.TimelinePresenter",
+		"StreamPresenter": "com.soundcloud.android.stream.StreamPresenter",
+		"StreamUrlBuilder": "emt",
+		"TrackPageMenuController": "exm",
+		"TrackItemMenuPresenter": "hgv",
+		"TrackItem": "hgu",
+		"PopupMenuWrapper": "hua",
+		"MainActivity": "com.soundcloud.android.main.MainActivity"
+	},
+	"methods": {
+		"StreamRefreshController_onResume": "a",
+		"StreamRefreshController_onPause": "b",
+		"TimelinePresenter_refreshAndUpdateIndicator": "k",
+		"StreamPresenter_onPause": "c",
+		"RecyclerViewPresenter_getRecyclerView": "g",
+		"StreamPresenter_onViewCreated": "b",
+		"TrackPageMenuController_show": "d",
+		"TrackPageMenuController_onMenuItemClick": "a",
+		"PlayerTrackState_getUserName": "e",
+		"PlayerTrackState_getTitle": "d",
+		"PlayerTrackState_getUrn": "getUrn",
+		"TrackItemMenuPresenter_configureLikeActionTitle": "a",
+		"TrackItemMenuPresenter_onMenuItemClick": "a",
+		"TrackItem_creatorName": "p",
+		"TrackItem_title": "n",
+		"TrackItem_getUrn": "getUrn",
+		"StreamUrlBuilder_buildStreamUrl": "a"
+	},
+	"fields": {
+		"StreamPresenter_adapter": "h",
+		"TrackPageMenuController_popupMenuWrapper": "b",
+		"TrackPageMenuController_track": "l",
+		"TrackItemMenuPresenter_track": "r",
+		"PopupMenuWrapper_popupMenu": "a"
+	}
+}
