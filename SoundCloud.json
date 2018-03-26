@@ -1,18 +1,18 @@
 {
 	"info": {
-		"version": 1,
-		"version_code": 942,
-		"version_name": "2018.02.26"
+		"version": 2,
+		"version_code": 963,
+		"version_name": "2018.03.22"
 	},
 	"classes": {
-		"StreamRefreshController": "guu",
+		"StreamRefreshController": "gzp",
 		"TimelinePresenter": "com.soundcloud.android.sync.timeline.TimelinePresenter",
 		"StreamPresenter": "com.soundcloud.android.stream.StreamPresenter",
-		"StreamUrlBuilder": "emt",
-		"TrackPageMenuController": "exm",
-		"TrackItemMenuPresenter": "hgv",
-		"TrackItem": "hgu",
-		"PopupMenuWrapper": "hua",
+		"StreamUrlBuilder": "eqf",
+		"TrackPageMenuController": "fbu",
+		"TrackItemMenuPresenter": "hlu",
+		"TrackItem": "hlt",
+		"PopupMenuWrapper": "hzd",
 		"MainActivity": "com.soundcloud.android.main.MainActivity"
 	},
 	"methods": {
