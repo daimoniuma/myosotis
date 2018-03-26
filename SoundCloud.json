@@ -1,6 +1,6 @@
 {
 	"info": {
-		"version": 2,
+		"version": 3,
 		"version_code": 963,
 		"version_name": "2018.03.22"
 	},
@@ -24,8 +24,8 @@
 		"StreamPresenter_onViewCreated": "b",
 		"TrackPageMenuController_show": "d",
 		"TrackPageMenuController_onMenuItemClick": "a",
-		"PlayerTrackState_getUserName": "e",
-		"PlayerTrackState_getTitle": "d",
+		"PlayerTrackState_getUserName": "f",
+		"PlayerTrackState_getTitle": "e",
 		"PlayerTrackState_getUrn": "getUrn",
 		"TrackItemMenuPresenter_configureLikeActionTitle": "a",
 		"TrackItemMenuPresenter_onMenuItemClick": "a",
