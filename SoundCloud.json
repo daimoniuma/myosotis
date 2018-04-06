@@ -1,6 +1,6 @@
 {
 	"info": {
-		"version": 3,
+		"version": 4,
 		"version_code": 963,
 		"version_name": "2018.03.22"
 	},
@@ -19,7 +19,7 @@
 		"StreamRefreshController_onResume": "a",
 		"StreamRefreshController_onPause": "b",
 		"TimelinePresenter_refreshAndUpdateIndicator": "k",
-		"StreamPresenter_onPause": "c",
+		"StreamPresenter_onPause": "b",
 		"RecyclerViewPresenter_getRecyclerView": "g",
 		"StreamPresenter_onViewCreated": "b",
 		"TrackPageMenuController_show": "d",
