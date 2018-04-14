@@ -1,6 +1,6 @@
 {
 	"info": {
-		"version": 6,
+		"version": 7,
 		"version_code": 972,
 		"version_name": "2018.04.06"
 	},
@@ -37,7 +37,7 @@
 	"fields": {
 		"StreamPresenter_adapter": "h",
 		"TrackPageMenuController_popupMenuWrapper": "b",
-		"TrackPageMenuController_track": "l",
+		"TrackPageMenuController_track": "n",
 		"TrackItemMenuPresenter_track": "r",
 		"PopupMenuWrapper_popupMenu": "a"
 	}
