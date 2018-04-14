@@ -1,6 +1,6 @@
 {
 	"info": {
-		"version": 5,
+		"version": 6,
 		"version_code": 972,
 		"version_name": "2018.04.06"
 	},
@@ -22,7 +22,7 @@
 		"StreamPresenter_onPause": "b",
 		"RecyclerViewPresenter_getRecyclerView": "g",
 		"StreamPresenter_onViewCreated": "b",
-		"TrackPageMenuController_show": "d",
+		"TrackPageMenuController_show": "e",
 		"TrackPageMenuController_onMenuItemClick": "a",
 		"PlayerTrackState_getUserName": "f",
 		"PlayerTrackState_getTitle": "e",
