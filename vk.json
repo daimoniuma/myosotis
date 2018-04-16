@@ -1,12 +1,12 @@
 {
 	"info": {
-		"version": 8,
-		"version_code": 1252,
-		"version_name": "5.0.2"
+		"version": 9,
+		"version_code": 2078,
+		"version_name": "5.7"
 	},
 	"classes": {
 		"LinkRedir": "com.vk.common.links.b",
-		"ChatFragment": "com.vkontakte.android.fragments.messages.ChatFragment",
+		"ChatFragment": "com.vkontakte.android.fragments.messages.chat.ChatFragment",
 		"Stickers": "com.vkontakte.android.stickers.h",
 		"StickersDictionaryItem": "com.vkontakte.android.data.orm.b",
 		"NewsEntry": "com.vkontakte.android.NewsEntry",
@@ -46,7 +46,7 @@
 	"methods": {
 		"LinkRedir_makeAwayUri": "b",
 		"ChatFragment_markAsRead": "L",
-		"ChatFragment_sendTypingIfNeeded": "M",
+		"ChatFragment_sendTypingIfNeeded": "d",
 		"Stickers_getPromotedStickers": "c",
 		"Stickers_getGlobalPromotions": "h",
 		"Stickers_getNewItems": "g",
