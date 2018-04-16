@@ -1,6 +1,6 @@
 {
 	"info": {
-		"version": 9,
+		"version": 10,
 		"version_code": 2078,
 		"version_name": "5.7"
 	},
@@ -14,8 +14,8 @@
 		"Posts_Interface": "com.vkontakte.android.d.i",
 		"NewsFragment": "com.vkontakte.android.fragments.NewsFragment",
 		"MessageListItem": "com.vkontakte.android.ui.holder.messages.f",
-		"Message": "com.vkontakte.android.Message",
-		"MessageForward": "com.vkontakte.android.Message$a",
+		"Message": "com.vk.im.engine.models.messages.Msg",
+		"MessageForward": "com.vk.im.engine.models.messages.FwdMsg",
 		"WriteBar": "com.vkontakte.android.ui.WriteBar",
 		"Messages": "com.vkontakte.android.data.e",
 		"MainActivity": "com.vkontakte.android.MainActivity",
