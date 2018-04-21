@@ -1,18 +1,18 @@
 {
 	"info": {
-		"version": 7,
-		"version_code": 972,
-		"version_name": "2018.04.06"
+		"version": 8,
+		"version_code": 984,
+		"version_name": "2018.04.17"
 	},
 	"classes": {
-		"StreamRefreshController": "hbn",
+		"StreamRefreshController": "hct",
 		"TimelinePresenter": "com.soundcloud.android.sync.timeline.TimelinePresenter",
 		"StreamPresenter": "com.soundcloud.android.stream.StreamPresenter",
-		"StreamUrlBuilder": "eru",
-		"TrackPageMenuController": "fdm",
-		"TrackItemMenuPresenter": "hns",
-		"TrackItem": "hnr",
-		"PopupMenuWrapper": "iae",
+		"StreamUrlBuilder": "etr",
+		"TrackPageMenuController": "ffd",
+		"TrackItemMenuPresenter": "hpa",
+		"TrackItem": "hoz",
+		"PopupMenuWrapper": "ibn",
 		"MainActivity": "com.soundcloud.android.main.MainActivity"
 	},
 	"methods": {
