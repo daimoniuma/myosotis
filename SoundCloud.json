@@ -1,6 +1,6 @@
 {
 	"info": {
-		"version": 9,
+		"version": 10,
 		"version_code": 1011,
 		"version_name": "2018.05.09"
 	},
@@ -35,7 +35,7 @@
 		"StreamUrlBuilder_buildStreamUrl": "a"
 	},
 	"fields": {
-		"StreamPresenter_adapter": "h",
+		"StreamPresenter_adapter": "g",
 		"TrackPageMenuController_popupMenuWrapper": "b",
 		"TrackPageMenuController_track": "n",
 		"TrackItemMenuPresenter_track": "r",
