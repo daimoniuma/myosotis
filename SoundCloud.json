@@ -1,12 +1,11 @@
 {
 	"info": {
-		"version": 11,
+		"version": 12,
 		"version_code": 1011,
 		"version_name": "2018.05.09"
 	},
 	"classes": {
-		"StreamRefreshController": "hex",
-		"TimelinePresenter": "com.soundcloud.android.sync.timeline.TimelinePresenter",
+		"TimelineSyncer": "hqb",
 		"StreamUniflowFragment": "com.soundcloud.android.stream.StreamUniflowFragment",
 		"StreamUrlBuilder": "eut",
 		"TrackPageMenuController": "fgq",
@@ -16,9 +15,7 @@
 		"MainActivity": "com.soundcloud.android.main.MainActivity"
 	},
 	"methods": {
-		"StreamRefreshController_onResume": "a",
-		"StreamRefreshController_onPause": "b",
-		"TimelinePresenter_refreshAndUpdateIndicator": "k",
+		"TimelineSyncer_run": "a",
 		"StreamUniflowFragment_onViewCreated": "onViewCreated",
 		"StreamUniflowFragment_onPause": "onPause",
 		"TrackPageMenuController_show": "e",
@@ -34,6 +31,7 @@
 		"StreamUrlBuilder_buildStreamUrl": "a"
 	},
 	"fields": {
+		"TimelineSyncer_action": "h",
 		"StreamUniflowFragment_adapter": "c",
 		"StreamUniflowFragment_recyclerViewController": "o",
 		"RecyclerViewController_recyclerView": "a",
