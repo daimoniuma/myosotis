@@ -1,13 +1,13 @@
 {
 	"info": {
-		"version": 10,
+		"version": 11,
 		"version_code": 1011,
 		"version_name": "2018.05.09"
 	},
 	"classes": {
 		"StreamRefreshController": "hex",
 		"TimelinePresenter": "com.soundcloud.android.sync.timeline.TimelinePresenter",
-		"StreamPresenter": "com.soundcloud.android.stream.StreamPresenter",
+		"StreamUniflowFragment": "com.soundcloud.android.stream.StreamUniflowFragment",
 		"StreamUrlBuilder": "eut",
 		"TrackPageMenuController": "fgq",
 		"TrackItemMenuPresenter": "hrb",
@@ -19,9 +19,8 @@
 		"StreamRefreshController_onResume": "a",
 		"StreamRefreshController_onPause": "b",
 		"TimelinePresenter_refreshAndUpdateIndicator": "k",
-		"StreamPresenter_onPause": "b",
-		"RecyclerViewPresenter_getRecyclerView": "g",
-		"StreamPresenter_onViewCreated": "b",
+		"StreamUniflowFragment_onViewCreated": "onViewCreated",
+		"StreamUniflowFragment_onPause": "onPause",
 		"TrackPageMenuController_show": "e",
 		"TrackPageMenuController_onMenuItemClick": "a",
 		"PlayerTrackState_getUserName": "f",
@@ -35,7 +34,9 @@
 		"StreamUrlBuilder_buildStreamUrl": "a"
 	},
 	"fields": {
-		"StreamPresenter_adapter": "g",
+		"StreamUniflowFragment_adapter": "c",
+		"StreamUniflowFragment_recyclerViewController": "o",
+		"RecyclerViewController_recyclerView": "a",
 		"TrackPageMenuController_popupMenuWrapper": "b",
 		"TrackPageMenuController_track": "n",
 		"TrackItemMenuPresenter_track": "r",
