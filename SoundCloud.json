@@ -1,17 +1,17 @@
 {
 	"info": {
-		"version": 12,
-		"version_code": 1011,
-		"version_name": "2018.05.09"
+		"version": 13,
+		"version_code": 1030,
+		"version_name": "2018.05.17"
 	},
 	"classes": {
-		"TimelineSyncer": "hqb",
+		"TimelineSyncer": "hsi",
 		"StreamUniflowFragment": "com.soundcloud.android.stream.StreamUniflowFragment",
-		"StreamUrlBuilder": "eut",
-		"TrackPageMenuController": "fgq",
-		"TrackItemMenuPresenter": "hrb",
-		"TrackItem": "hra",
-		"PopupMenuWrapper": "idw",
+		"StreamUrlBuilder": "evz",
+		"TrackPageMenuController": "fhz",
+		"TrackItemMenuPresenter": "htf",
+		"TrackItem": "hte",
+		"PopupMenuWrapper": "igb",
 		"MainActivity": "com.soundcloud.android.main.MainActivity"
 	},
 	"methods": {
